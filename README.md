@@ -13,8 +13,9 @@
  - I spend my weekends learning and tinkering with car ECU systems as well as car diagnostic tools
  - I enjoy working with computer/networking hardware
  - I am always up for working on fun and interesting projects with new people
- 
 
+
+Below you can find some of my college projects pinned to date that I enjoyed working on
 
 #### Languages and Tools
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,8 +26,6 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-%232496ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/arch_linux-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/>
-
-
 
 
 
