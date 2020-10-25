@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
-#### Some more stuff about me:
+#### Some stuff about me:
  - I am currently researching future networking systems for my masters and improving my development skills while doing so
  - I enjoy learning about IOS security and exploits
  - I spend my weekends learning and tinkering with car ECU systems as well as car diagnostic tools
