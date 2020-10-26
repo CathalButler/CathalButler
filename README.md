@@ -1,7 +1,7 @@
 ## Hi, I'm Cathal 👋
 
 *I’m currently pursuing a master's degree in Computer Science*<br>
-*I am a recent Software Developer Graduate from [Galway-Mayo Institute of Technology](https://www.gmit.ie/) :mortar_board:* <br>
+*Recent Software Developer Graduate from [Galway-Mayo Institute of Technology](https://www.gmit.ie/) :mortar_board:* <br>
 
 <a href="https://www.linkedin.com/in/butler-cathal/"/>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
