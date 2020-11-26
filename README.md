@@ -8,8 +8,8 @@
 
 
 #### Some stuff about me:
- - I am currently researching IOS Secuirty for my masters and improving my development skills while doing so
- - I enjoy learning about IOS security and exploits
+ - I am currently researching IOS Security for my masters and improving my development skills while doing so
+ - I enjoy learning about IOS Security and exploits
  - I spend my weekends learning and tinkering with car ECU systems as well as car diagnostic tools
  - I am always up for working on fun and interesting projects with new people
 
