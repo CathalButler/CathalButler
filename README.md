@@ -1,22 +1,19 @@
 ## Hi, I'm Cathal 👋
 
-*I’m currently pursuing a master's degree in Computer Science*<br>
-*Recent Software Developer Graduate from [Galway-Mayo Institute of Technology](https://www.gmit.ie/) :mortar_board:* <br>
-
-<a href="https://www.linkedin.com/in/butler-cathal/"/>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+* I’m currently seeking employment in Frontend Developmemnt / Software Developer*<br>
+* Recent Software Developer Graduate from [Galway-Mayo Institute of Technology](https://www.gmit.ie/) 2020 :mortar_board:* <br>
 
 
-#### Some stuff about me:
- - I am currently researching IOS Security for my masters and improving my development skills while doing so
- - I enjoy learning about IOS Security and exploits
- - I spend my weekends learning and tinkering with car ECU systems as well as car diagnostic tools
- - I am always up for working on fun and interesting projects with new people
+#### Some stuff about me:<br>
+ - I am currently learning React and GraphQL.
+ - I enjoy learning about latest in Cyber Secuity news by following [thehackernews.com](https://thehackernews.com/).
+ - I enjoy tinking with network tech. [openwrt-telegram-notifier](https://github.com/CathalButler/openwrt-telegram-notifier).
+ - I am always up for working on fun and interesting projects with new people.
 
 
-Below you can find some of my college projects pinned to date that I enjoyed working on
+Below you can find some of my college projects pinned to date that I enjoyed working on.<br>
 
-#### Languages and Tools
+#### Languages and Tools<br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
