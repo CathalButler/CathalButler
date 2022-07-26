@@ -6,7 +6,7 @@
 #### Some stuff about me:<br>
  - I am currently learning React and GraphQL.
  - I enjoy learning about latest in Cyber Secuity news by following [thehackernews.com](https://thehackernews.com/).
- - I enjoy tinking with network tech. [openwrt-telegram-notifier](https://github.com/CathalButler/openwrt-telegram-notifier).
+ - I enjoy tinkering with network tech. [openwrt-telegram-notifier](https://github.com/CathalButler/openwrt-telegram-notifier).
  - I am always up for working on fun and interesting projects with new people.
 
 Below you can find some of my college projects pinned to date that I enjoyed working on.<br>
