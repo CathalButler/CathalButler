@@ -20,6 +20,7 @@ Below you can find some of my college projects pinned to date that I enjoyed wor
 <img src="https://img.shields.io/badge/docker-%232496ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/arch_linux-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/jetbrains-%23ed3d7b.svg?&style=for-the-badge&logo=jetbrains&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
 
 
 
