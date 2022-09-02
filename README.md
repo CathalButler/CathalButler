@@ -1,8 +1,5 @@
 ## Hi, I'm Cathal 👋
 
-* Currently seeking employment in Frontend Development / Software Development
-* Recent Software Developer Graduate from [Galway-Mayo Institute of Technology](https://www.gmit.ie/) 2020 :mortar_board:
-
 #### Some stuff about me:<br>
  - Currently learning React and GraphQL.
  - Enjoy learning about latest in Cyber Secuity news by following [thehackernews.com](https://thehackernews.com/).
