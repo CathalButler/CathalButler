@@ -1,7 +1,7 @@
 ## Hi, I'm Cathal 👋
 
 #### Some stuff about me:<br>
- - Currently working with C# 
+ - Currently working with C#.
  - Enjoy learning about latest in Cyber Secuity news by following [thehackernews.com](https://thehackernews.com/).
  - Enjoy tinkering with network tech. [openwrt-telegram-notifier](https://github.com/CathalButler/openwrt-telegram-notifier).
  - Always up for working on fun and interesting projects with new people.
