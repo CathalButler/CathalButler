@@ -1,10 +1,10 @@
 ## Hi, I'm Cathal 👋
 
 #### Some stuff about me:<br>
-💻 Currently working with C#.<br>
-🔐 Enjoy tracking the latest in Cyber Secuity news by following [thehackernews.com](https://thehackernews.com/).<br>
-🛠️ In my downtime from my job I enjoy working on a home lab which includes OpenSenes for home networking and Proxmox for managing virutal machines.<br>
-🤝 Always up for working on fun and interesting projects with people.<br>
+- Currently working with C#.<br>
+- Enjoy tracking the latest in Cyber Secuity news by following [thehackernews.com](https://thehackernews.com/).<br>
+- In my downtime from my job I enjoy working on a home lab which includes OpenSenes for home networking and Proxmox for managing virutal machines.<br>
+- Always up for working on fun and interesting projects with people.<br>
 
 Below you can find some of my college projects pinned to date that I enjoyed working on.<br>
 
